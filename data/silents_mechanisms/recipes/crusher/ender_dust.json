@@ -1,0 +1,12 @@
+{
+    "type": "silents_mechanisms:crushing",
+    "process_time": 400,
+    "ingredient": {
+        "item": "minecraft:ender_pearl"
+    },
+    "results": [
+        {
+            "item": "appliedenergistics2:ender_dust"
+        }
+    ]
+}

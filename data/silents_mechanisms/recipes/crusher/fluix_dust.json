@@ -1,0 +1,12 @@
+{
+    "type": "silents_mechanisms:crushing",
+    "process_time": 400,
+    "ingredient": {
+        "tag": "appliedenergistics2:crystals/fluix"
+    },
+    "results": [
+        {
+            "item": "appliedenergistics2:fluix_dust"
+        }
+    ]
+}
