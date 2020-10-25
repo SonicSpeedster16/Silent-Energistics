@@ -2,7 +2,7 @@
     "type": "silents_mechanisms:crushing",
     "process_time": 400,
     "ingredient": {
-        "tag": "appliedenergistics2:crystals/fluix"
+        "item": "appliedenergistics2:fluix_crystal"
     },
     "results": [
         {
