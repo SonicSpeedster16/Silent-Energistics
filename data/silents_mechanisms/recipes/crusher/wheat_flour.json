@@ -1,0 +1,12 @@
+{
+    "type": "silents_mechanisms:crushing",
+    "process_time": 400,
+    "ingredient": {
+        "tag": "forge:crops/wheat"
+    },
+    "results": [
+        {
+            "item": "appliedenergistics2:flour"
+        }
+    ]
+}
