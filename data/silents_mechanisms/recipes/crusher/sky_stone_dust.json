@@ -1,0 +1,12 @@
+{
+    "type": "silents_mechanisms:crushing",
+    "process_time": 400,
+    "ingredient": {
+        "item": "appliedenergistics2:sky_stone_block"
+    },
+    "results": [
+        {
+            "item": "appliedenergistics2:sky_dust"
+        }
+    ]
+}
