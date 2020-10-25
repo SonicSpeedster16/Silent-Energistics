@@ -1,0 +1,12 @@
+{
+  "type": "appliedenergistics2:grinder",
+  "input": {
+    "item": "minecraft:coal"
+  },
+  "result": {
+    "primary": {
+      "item": "silents_mechanisms:coal_dust"
+    }
+  },
+  "turns": 4
+}
